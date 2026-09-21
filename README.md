@@ -1,4 +1,5 @@
 # 👋 Hey, I'm Balatori
+I'm very new to this area, but ill do my best to be good at it
 Come back in the future so you can see what I have become<br>
 Contact me on Discord: Balatori
 
@@ -27,9 +28,8 @@ My main interests are:
 * 🧩 **Minecraft Client Development**
 * 📚 **Game dev**
 * 🌎**Other languages**
+* 🧪 **Experimenting with Minecraft mechanics and clients**
 * Maybe fullstack
-
-* 🧪 Experimenting with Minecraft mechanics and clients
   
 I'm still at the beginning of my programming journey, so most of my projects are experiments and learning projects.
 
