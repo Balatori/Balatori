@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Balatori
+# 👋 Hi, I'm Balatori
 I'm very new to this area, but I'll do my best to be good at it<br>
 Come back in the future so you can see what I have become<br>
 Contact me on Discord: Balatori
