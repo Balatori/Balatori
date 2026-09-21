@@ -26,10 +26,10 @@ My main interests are:
 * 🎮 **Minecraft Modding**
 * 🔧 **Minecraft Plugins**
 * 🧩 **Minecraft Client Development**
+* 🧪 **Experimenting with Minecraft mechanics and clients**
 * 📚 **Game dev**
 * 🌎**Other languages**
-* 🧪 **Experimenting with Minecraft mechanics and clients**
-* Maybe fullstack
+* **Maybe become a fullstack...**
   
 I'm still at the beginning of my programming journey, so most of my projects are experiments and learning projects.
 
