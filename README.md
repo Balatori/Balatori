@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Balatori
-Come back in the future so you can see what i have become
-Contact me on discord: Balatori
+Come back in the future so you can see what I have become<br>
+Contact me on Discord: Balatori
 
 > ☕ Java Learner • 🎮 Minecraft Modding • ⚙️ Plugin Development
 
