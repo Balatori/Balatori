@@ -2,8 +2,8 @@
 🔧 I'm very new to this area, but I'll do my best to be good at it<br>
 🛡️Come back in the future so you can see what I have become<br>
 🤙Contact me via:<br>
-* **Email: balatori.dev@gmail.com**<br>
 * **Discord: Balatori**<br>
+* **Email: balatori.dev@gmail.com**<br>
 
 > ☕ Java Learner • 🎮 Minecraft Modding • ⚙️ Plugin Development
 
