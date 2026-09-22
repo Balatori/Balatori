@@ -5,7 +5,8 @@
 * **Discord: Balatori**<br>
 * **Email: balatori.dev@gmail.com**<br>
 
-> ☕ Java Learner • 🎮 Minecraft Modding • ⚙️ Plugin Development • 🛡️ Cybersecurity
+What i'm learning?
+> ☕ Java • 🎮 Minecraft Modding • ⚙️ Plugin Development • 🛡️ Cybersecurity
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500">
@@ -13,7 +14,8 @@
 
 ## 🧠 About Me
 
-I'm currently learning **Java** and getting into programming from the ground up.
+When i get good at it, ill sell my own things and try to do some commissions, 
+i'm currently learning **Java** and getting into programming from the ground up.
 
 My main interests are:
 
