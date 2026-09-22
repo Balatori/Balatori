@@ -5,7 +5,7 @@
 * **Discord: Balatori**<br>
 * **Email: balatori.dev@gmail.com**<br>
 
-> ☕ Java Learner • 🎮 Minecraft Modding • ⚙️ Plugin Development
+> ☕ Java Learner • 🎮 Minecraft Modding • ⚙️ Plugin Development • 🛡️ Cybersecurity
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500">
@@ -21,7 +21,7 @@ My main interests are:
 * 🎮 **Minecraft Modding**
 * 🔧 **Minecraft Plugins**
 * 🧩 **Minecraft Client Development**
-* 🧪 **Experimenting with Minecraft mechanics and clients**
+* 🛡️ **Cybersecurity**
 * 📚 **Game dev**
 * 🌎**Other languages**
 * **Maybe become a fullstack...**
