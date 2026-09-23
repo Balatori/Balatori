@@ -14,7 +14,7 @@ What i'm learning?
 
 ## 🧠 About Me
 
-When i get good at it, ill sell my own things and try to do some commissions,<br>
+When i get good at this, ill sell my own things and try to do some commissions,<br>
 i'm currently learning **Java** and getting into programming from the ground up.<br>
 
 My main interests are:
